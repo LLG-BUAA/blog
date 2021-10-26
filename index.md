@@ -1,11 +1,10 @@
+# i
+nihao
 ## Welcome to My Pages
 
 I'm just a common student from [BeiHang University](https://www.buaa.edu.cn/),you an also say the HUAA.
 
-
-You can use the [editor on GitHub](https://github.com/LLG-BUAA/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As you can see,it's such a simple blog with few atractive elements,and I'm just an odinary beings with little knownledge of git. Here lies so many things--study,friends,social work etc,to copy with. It's just a kind of entertainment for me. So, the result is NOT my cake. I just enjoy the feeling of gain new knowledge. It's my FAV,of course.
 
 ### Markdown
 
