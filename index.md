@@ -10,6 +10,10 @@ As you can see,it's such a simple blog with few atractive elements,and I'm just 
 
 Here lies so many things--study,friends,social work etc,to copy with. It's just a kind of entertainment for me. So, the result is NOT my cake. I just enjoy the feeling of gain new knowledge. It's my FAV,of course.
 
+## I'm new here
+
+Below are some useful inf for me to master this project. I leave them still here!
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
