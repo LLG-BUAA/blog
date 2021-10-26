@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to My Pages
+
+I'm just a common student from [BeiHang University](https://www.buaa.edu.cn/),you an also say the HUAA.
+
 
 You can use the [editor on GitHub](https://github.com/LLG-BUAA/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
