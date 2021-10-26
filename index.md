@@ -1,10 +1,14 @@
-# i
-nihao
+# Congrathlations!
+
+There is my first personal blog!
+
 ## Welcome to My Pages
 
 I'm just a common student from [BeiHang University](https://www.buaa.edu.cn/),you an also say the HUAA.
 
-As you can see,it's such a simple blog with few atractive elements,and I'm just an odinary beings with little knownledge of git. Here lies so many things--study,friends,social work etc,to copy with. It's just a kind of entertainment for me. So, the result is NOT my cake. I just enjoy the feeling of gain new knowledge. It's my FAV,of course.
+As you can see,it's such a simple blog with few atractive elements,and I'm just an odinary beings with little knownledge of git. 
+
+Here lies so many things--study,friends,social work etc,to copy with. It's just a kind of entertainment for me. So, the result is NOT my cake. I just enjoy the feeling of gain new knowledge. It's my FAV,of course.
 
 ### Markdown
 
